@@ -23,7 +23,7 @@ Follow these steps to set up and begin using the staking bot for your NFT projec
 Create a `.env file` in the project's root directory and define your environment variables. You can use the `.env.example` file as a template.
 - Start the bot.
 ## Usage
-Staking bots are automated tools designed to simplify the process of staking cryptocurrency assets to earn rewards. In the realm of NFT (Non-Fungible Token) projects, staking bots serve to incentivize both NFT holders and project administrators by enabling the earning of additional tokens or benefits through staking their NFTs. Here’s how NFT holders and project administrators can interact with and utilize a staking bot, along with practical examples and scenarios:
+Staking bots are automated tools designed to simplify the process of staking cryptocurrency assets to earn rewards. In the realm of NFT (Non-Fungible Token) projects, staking bots serve to incentivize both NFT holders and project administrators by enabling the earning of additional tokens or benefits through staking their NFTs.
 
 **For NFT Holders:**
 
